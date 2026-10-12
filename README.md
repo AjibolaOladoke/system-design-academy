@@ -477,3 +477,11 @@ Compiled and maintained from upstream [systemdesign42/system-design-academy](htt
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
