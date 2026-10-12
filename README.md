@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the system-design-acade
 
 ## Images
 
-[![system-design-academy](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![system-design-academy](images/preview.png)](https://github.com/Swift-Tech-Co/system-design-academy)
 
 ## System Design Case Study
 
@@ -54,7 +54,6 @@ A practical reference entry for product and engineering: the system-design-acade
 - How Facebook Was Able to Support a Billion Users via Software Load Balancer
 - How Figma Scaled Postgres to 4M Users
 
-
 #### G companies
 
 - How Google Search Works
@@ -68,7 +67,6 @@ A practical reference entry for product and engineering: the system-design-acade
 - How Halo Scaled to 11.6 Million Users Using the Saga Design Pattern
 
 #### I companies
-
 
 #### K companies
 
@@ -163,7 +161,6 @@ A practical reference entry for product and engineering: the system-design-acade
 - Mobile System Design Concepts - Part 2
 - Mobile System Design Concepts - Part 3
 
-
 #### A technologies
 
 - Actor Model
@@ -198,7 +195,6 @@ A practical reference entry for product and engineering: the system-design-acade
 - How CDN Works
 - How CI/CD Works
 
-
 #### D technologies
 
 - How Databases Keep Passwords Securely
@@ -208,10 +204,8 @@ A practical reference entry for product and engineering: the system-design-acade
 - How Docker Works
 - 16 Database Types
 
-
 #### F technologies
 - 21 Frontend System Design Concepts for Software Engineers
-
 
 #### G technologies
 
@@ -404,7 +398,6 @@ A practical reference entry for product and engineering: the system-design-acade
 - Vertical Small LLM
 - How Vector Database Search Billions of Vectors in Milliseconds
 
-
 ---
 
 ## Software White Papers
@@ -413,11 +406,9 @@ A practical reference entry for product and engineering: the system-design-acade
 
 - Amazon Dynamo
 
-
 #### S white papers
 
 - Google Spanner
-
 
 #### X white papers
 
@@ -426,12 +417,12 @@ A practical reference entry for product and engineering: the system-design-acade
 ---
 
 <p>
-  <a href="https://www.swifttechco.com"> </a>
+  <a href="https://github.com/Swift-Tech-Co/system-design-academy"> </a>
 </p>
 
 <p align="center">
    👋
-   <a href="https://www.swifttechco.com">
+   <a href="https://github.com/Swift-Tech-Co/system-design-academy">
      <b> Join Newsletter Now </b>
    </a>
  </p>
@@ -440,7 +431,7 @@ A practical reference entry for product and engineering: the system-design-acade
 
 ## License
 
-<p>Licensed under <a href="https://www.swifttechco.com" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0</p>
+<p>Licensed under <a href="https://github.com/Swift-Tech-Co/system-design-academy" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0</p>
 
 ---
 
@@ -456,13 +447,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/system-design-academy
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
